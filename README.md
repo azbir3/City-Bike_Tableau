@@ -1,5 +1,5 @@
 # City-Bike_Tableau
-![myimage-alt-tag](https://raw.githubusercontent.com/azbir3/City-Bike_Tableau/master/images/CityBike_KipsBay.png)
+![myimage-alt-tag](imges/CityBike_KipsBay.png)
 
 For this assignment we were asked to analyse City Bike sharing program data for New York City.  Due to a high volume of data available I downloaded and normalized data in Jupyter Notebook to oleviate issues with data loading limitations in Tableau and came up with a final database of about 156 tousand of records.
 
@@ -7,17 +7,7 @@ I chose to limit my analysis to the period of Jan 2017 forward and further inclu
 
 Source data is available at https://www.citibikenyc.com/system-data and includes following componenets:
 
--Trip Duration (seconds)
--Start Time and Date
--Stop Time and Date
--Start Station Name
--End Station Name
--Station ID
--Station Lat/Long
--Bike ID
--User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
--Gender (Zero=unknown; 1=male; 2=female)
--Year of Birth
+![myimage-alt-tag](imges/dataset.png)
 
 I have summarized my findings in a number of dashboards and independed visualisaion shown in CityBike_17to19.tbx file and below are my summary nerrative for each of the dashboards presented in the Story -
 https://public.tableau.com/profile/allaz#!/vizhome/CityBike_17to19/Story1?publish=yes
